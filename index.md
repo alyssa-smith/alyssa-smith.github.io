@@ -1,7 +1,7 @@
 ---
 layout: page
-title: lizard people!
-tagline: what do i say
+title: asmithh
+tagline: having a website is a thing you do, right?
 ---
 {% include JB/setup %}
 
