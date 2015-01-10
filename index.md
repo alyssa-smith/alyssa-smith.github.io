@@ -3,38 +3,20 @@ layout: page
 title: asmithh
 tagline: having a website is a thing you do, right?
 ---
-{% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+#Alyssa Smith
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
+I'm an MIT sophomore studying comparative media studies (CMS) and computer science.  Some of my interests include learning about people through the data they generate and using code to make the world a kinder and more equitable place. 
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+## Projects
+####Completed
+-[apocalypse moon](http://alyssa-smith.github.io/moon-orbits-earth)
+-[markov-generated rush lyrics](http://alyssa-smith.github.io/markov-rush)
+####In progress
+-fanfiction analysis
+-broadband map
 
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
