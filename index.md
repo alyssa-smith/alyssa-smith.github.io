@@ -11,9 +11,13 @@ I'm an MIT sophomore studying comparative media studies (CMS) and computer scien
     
 ## Completed Projects
 [apocalypse moon](http://alyssa-smith.github.io/moon-orbits-earth)
+
 [markov-generated rush lyrics](http://alyssa-smith.github.io/markov-rush)
+    
+
 ##In progress
 [fanfiction analysis](http://alyssa-smith.github.io/fanfiction)
+
 broadband map
 
 
